@@ -3,7 +3,6 @@
 
 > Collection of algorithm solutions with explanations and complexity analysis. Interview preparation focused.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-75%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adamkshimou/)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adamshimou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamshimou)
 [![Last Commit](https://img.shields.io/github/last-commit/adamkshimou/algorithm-training?style=for-the-badge)](https://github.com/adamkshimou/algorithm-training)
