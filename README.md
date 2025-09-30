@@ -5,6 +5,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adamshimou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamshimou)
+[![Gmail](https://img.shields.io/badge/Gmail-adamkshimou-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamkshimou@gmail.com)
 ---
 ## 📊 Progress
 
@@ -68,7 +69,6 @@
 
 - **LinkedIn:** [linkedin.com/in/adamshimou](https://linkedin.com/in/adamshimou)
 - **GitHub:** [github.com/adamkshimou](https://github.com/adamkshimou)
-- **Gmail:**[![Gmail](https://img.shields.io/badge/Gmail-adamkshimou-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamkshimou@gmail.com)
 
 ---
 
