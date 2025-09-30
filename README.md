@@ -5,7 +5,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adamshimou-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamshimou)
-[![Last Commit](https://img.shields.io/github/last-commit/adamkshimou/algorithm-training?style=for-the-badge)](https://github.com/adamkshimou/algorithm-training)
 ---
 ## 📊 Progress
 
@@ -24,7 +23,13 @@
 |---|-------|-----------|----------|--------|
 | 1 | [Two Sum](./easy/two-sum.md) | 🟢 Easy | [Python](./easy/two-sum.py) | Array, Hash Tab le |
 | 54 | [Spiral Matrix](./medium/spiral-matrix.md) | 🟡 Medium | [Python](./medium/054-spiral-mat rix.py) | Array, Matrix |
+| 88 | [Merge Sorted Array](./easy/merge-sorted-array.md) | 🟢 Easy | [Python](./easy/merge-sorted-array.py) | Array, Two Pointers |
 | 128 | [Longest Consecutive Sequence](./medium/longest-consecutive-sequence.md) | 🟡 Medium | [ Python](./medium/longest-consecutive-sequence.py) | Array, Hash Table |
+| 217 | [Contains Duplicate](./easy/contains-duplicate.md) | 🟢 Easy | [Python](./easy/217-conta ins-duplicate.py) | Array, Hash Table |
+| 238 | [Product of Array Except Self](./medium/product-of-array-except-self.md) | 🟡 Medium | [ Python](./medium/product-of-array-except-self.py) | Array, Prefix Sum |
+| 242 | [Valid Anagram](./easy/valid-anagram.md) | 🟢 Easy | [Python](./easy/242-valid-anagram.p y) | Hash Table, String |
+
+
 
 ### Graphs
 | # | Title | Difficulty | Solution | Topics |
