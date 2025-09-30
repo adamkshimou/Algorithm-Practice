@@ -13,7 +13,7 @@
 | Easy      | 6     |  
 | Medium    | 5     |  
 | Hard      | 0     |  
-| **Total** | **7** |  
+| **Total** | **11** |  
 
 ##  Problems
 
