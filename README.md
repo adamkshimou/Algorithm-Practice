@@ -1,5 +1,5 @@
 # Algorithm-Practice
-# 🚀 Algorithm Training by Adam Shimou
+# Algorithm Training by Adam Shimou
 
 > Collection of algorithm solutions with explanations and complexity analysis. Interview preparation focused.
 
@@ -16,31 +16,31 @@
 | Hard      | 0     |  
 | **Total** | **7** |  
 
-## 📚 Problems
+##  Problems
 
 
 ### Arrays & Hashing
 | # | Title | Difficulty | Solution | Topics |
 |---|-------|-----------|----------|--------|
-| 1 | [Two Sum](./easy/001-two-sum.md) | 🟢 Easy | [Python](./easy/001-two-sum.py) | Array, Hash Tab le |
-| 54 | [Spiral Matrix](./medium/054-spiral-matrix.md) | 🟡 Medium | [Python](./medium/054-spiral-mat rix.py) | Array, Matrix |
-| 128 | [Longest Consecutive Sequence](./medium/128-longest-consecutive-sequence.md) | 🟡 Medium | [ Python](./medium/128-longest-consecutive-sequence.py) | Array, Hash Table |
+| 1 | [Two Sum](./easy/two-sum.md) | 🟢 Easy | [Python](./easy/two-sum.py) | Array, Hash Tab le |
+| 54 | [Spiral Matrix](./medium/spiral-matrix.md) | 🟡 Medium | [Python](./medium/054-spiral-mat rix.py) | Array, Matrix |
+| 128 | [Longest Consecutive Sequence](./medium/longest-consecutive-sequence.md) | 🟡 Medium | [ Python](./medium/longest-consecutive-sequence.py) | Array, Hash Table |
 
 ### Graphs
 | # | Title | Difficulty | Solution | Topics |
 |---|-------|-----------|----------|--------|
-| 200 | [Number of Islands](./medium/200-number-of-islands.md) | 🟡 Medium | [Python](./medium/200-n umber-of-islands.py) | Array, BFS, DFS |
+| 200 | [Number of Islands](./medium/number-of-islands.md) | 🟡 Medium | [Python](./medium/number-of-islands.py) | Array, BFS, DFS |
 
 ### Stack & Queue
 | # | Title | Difficulty | Solution | Topics |
 |---|-------|-----------|----------|--------|
-| 20 | [Valid Parentheses](./easy/020-valid-parentheses.md) | 🟢 Easy | [Python](./easy/020-valid-pa rentheses.py) | String, Stack |
+| 20 | [Valid Parentheses](./easy/valid-parentheses.md) | 🟢 Easy | [Python](./easy/valid-parentheses.py) | String, Stack |
 
 ### Two Pointers
 | # | Title | Difficulty | Solution | Topics |
 |---|-------|-----------|----------|--------|
-| 125 | [Valid Palindrome](./easy/125-valid-palindrome.md) | 🟢 Easy | [Python](./easy/125-valid-pal indrome.py) | Two Pointers, String |
-| 167 | [Two Sum II](./medium/167-two-sum-ii.md) | 🟡 Medium | [Python](./medium/167-two-sum-ii.py)  | Array, Two Pointers |
+| 125 | [Valid Palindrome](./easy/valid-palindrome.md) | 🟢 Easy | [Python](./easy/valid-palindrome.py) | Two Pointers, String |
+| 167 | [Two Sum II](./medium/two-sum-ii.md) | 🟡 Medium | [Python](./medium/two-sum-ii.py)  | Array, Two Pointers |
 
 ##  Common Patterns
 
@@ -63,7 +63,7 @@
 
 - **LinkedIn:** [linkedin.com/in/adamshimou](https://linkedin.com/in/adamshimou)
 - **GitHub:** [github.com/adamkshimou](https://github.com/adamkshimou)
-- **LeetCode:** [leetcode.com/adamkshimou](https://leetcode.com/adamkshimou)
+- **Email** [Gmail](adamkshimou@gmail.com)
 
 ---
 
