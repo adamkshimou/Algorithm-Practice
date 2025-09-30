@@ -115,19 +115,27 @@ class ProblemOrganizer:
 def main():
     org = ProblemOrganizer()
     
-    # Example problems - ADD YOUR SOLVED PROBLEMS HERE
+    # Arrays & Hashing
     org.add_problem(1, "Two Sum", "Easy", ["Array", "Hash Table"], "arrays")
-    org.add_problem(20, "Valid Parentheses", "Easy", ["String", "Stack"], "stack")
-    org.add_problem(54, "Spiral Matrix", "Medium", ["Array", "Matrix"], "arrays")
-    org.add_problem(125, "Valid Palindrome", "Easy", ["Two Pointers", "String"], "two-pointers")
+    org.add_problem(88, "Merge Sorted Array", "Easy", ["Array", "Two Pointers"], "arrays")
+    org.add_problem(217, "Contains Duplicate", "Easy", ["Array", "Hash Table"], "arrays")
+    org.add_problem(238, "Product of Array Except Self", "Medium", ["Array", "Prefix Sum"], "arrays")
+    org.add_problem(242, "Valid Anagram", "Easy", ["Hash Table", "String"], "arrays")
     org.add_problem(128, "Longest Consecutive Sequence", "Medium", ["Array", "Hash Table"], "arrays")
+    
+    # Two Pointers
+    org.add_problem(125, "Valid Palindrome", "Easy", ["Two Pointers", "String"], "two-pointers")
     org.add_problem(167, "Two Sum II", "Medium", ["Array", "Two Pointers"], "two-pointers")
+    
+    # Stack
+    org.add_problem(20, "Valid Parentheses", "Easy", ["String", "Stack"], "stack")
+    
+    # Matrix
+    org.add_problem(54, "Spiral Matrix", "Medium", ["Array", "Matrix"], "arrays")
+    
+    # Graphs
     org.add_problem(200, "Number of Islands", "Medium", ["Array", "BFS", "DFS"], "graphs")
     
-    # ADD MORE PROBLEMS HERE:
-    # org.add_problem(number, "Problem Name", "Difficulty", ["Topic1", "Topic2"], "category")
-    
-    # Generate README content
     org.generate_full_readme()
     
     print("\n\n=== INSTRUCTIONS ===")
