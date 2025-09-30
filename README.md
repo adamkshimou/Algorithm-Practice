@@ -10,8 +10,8 @@
 
 | Difficulty | Solved |
 |-----------|--------| 
-| Easy      | 3     |  
-| Medium    | 4     |  
+| Easy      | 6     |  
+| Medium    | 5     |  
 | Hard      | 0     |  
 | **Total** | **7** |  
 
