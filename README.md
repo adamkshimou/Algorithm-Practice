@@ -21,7 +21,7 @@
 ### Arrays & Hashing
 | # | Title | Difficulty | Solution | Topics |
 |---|-------|-----------|----------|--------|
-| 1 | [Two Sum](./easy/two-sum.md) | 🟢 Easy | [Python](./easy/two-sum.py) | Array, Hash Tab le |
+| 1 | [Two Sum](./easy/two-sum.md) | 🟢 Easy | [Python](./easy/two-sum.py) | Array, Hash Table |
 | 54 | [Spiral Matrix](./medium/spiral-matrix.md) | 🟡 Medium | [Python](./medium/spiral-matrix.py) | Array, Matrix |
 | 88 | [Merge Sorted Array](./easy/merge-sorted-array.md) | 🟢 Easy | [Python](./easy/merge-sorted-array.py) | Array, Two Pointers |
 | 128 | [Longest Consecutive Sequence](./medium/longest-consecutive-sequence.md) | 🟡 Medium | [ Python](./medium/longest-consecutive-sequence.py) | Array, Hash Table |
@@ -68,7 +68,7 @@
 
 - **LinkedIn:** [linkedin.com/in/adamshimou](https://linkedin.com/in/adamshimou)
 - **GitHub:** [github.com/adamkshimou](https://github.com/adamkshimou)
-- **Email** [Gmail](adamkshimou@gmail.com)
+- **Gmail:**[![Gmail](https://img.shields.io/badge/Gmail-adamkshimou-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamkshimou@gmail.com)
 
 ---
 
