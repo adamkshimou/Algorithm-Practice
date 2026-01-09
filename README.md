@@ -29,6 +29,7 @@
 | 217 | [Contains Duplicate](./easy/contains-duplicate.md) | 🟢 Easy | [Python](./easy/contains-duplicate.py) | Array, Hash Table |
 | 238 | [Product of Array Except Self](./medium/product-of-array-except-self.md) | 🟡 Medium | [ Python](./medium/product-of-array-except-self.py) | Array, Prefix Sum |
 | 242 | [Valid Anagram](./easy/valid-anagram.md) | 🟢 Easy | [Python](./easy/valid-anagram.py) | Hash Table, String |
+| 121 | [Best Time to Buy and Sell Stock](./easy/121-best-time-to-buy-and-sell-stock.md) | 🟢 Easy | [Python](./easy/121-best-time-to-buy-and-sell-stock.py) | Array, Dynamic Programming |
 
 
 

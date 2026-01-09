@@ -122,6 +122,7 @@ def main():
     org.add_problem(238, "Product of Array Except Self", "Medium", ["Array", "Prefix Sum"], "arrays")
     org.add_problem(242, "Valid Anagram", "Easy", ["Hash Table", "String"], "arrays")
     org.add_problem(128, "Longest Consecutive Sequence", "Medium", ["Array", "Hash Table"], "arrays")
+    org.add_problem(121, "Best Time to Buy and Sell Stock", "Easy", ["Array", "Dynamic Programming"], "arrays")
     
     # Two Pointers
     org.add_problem(125, "Valid Palindrome", "Easy", ["Two Pointers", "String"], "two-pointers")
